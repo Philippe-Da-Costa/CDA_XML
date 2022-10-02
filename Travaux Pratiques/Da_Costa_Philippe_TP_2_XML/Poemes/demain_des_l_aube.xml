@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<demain_des_l_aube>
+    <titre> Demain dés l'aube</titre>
+    <sous_titre>Recueil : Les contemplations</sous_titre>
+    <auteur>Victor HUGO</auteur>
+    <date_de_publication> 1856</date_de_publication>
+
+    <strophe numero="1">
+        <vers nb_vers="1">Demain, dès l'aube, à l'heure où blanchit la campagne,</vers>
+        <vers nb_vers="2">Je partirai. Vois-tu, je sais que tu m'attends.</vers>
+        <vers nb_vers="3">J'irai par la forêt, j'irai par la montagne.</vers>
+        <vers nb_vers="4">Je ne puis demeurer loin de toi plus longtemps.</vers>
+    </strophe>
+    <strophe numero="2">
+        <vers nb_vers="1">Je marcherai les yeux fixés sur mes pensées,</vers>
+        <vers nb_vers="2">Sans rien voir au dehors, sans entendre aucun bruit,</vers>
+        <vers nb_vers="3">Seul, inconnu, le dos courbé, les mains croisées,</vers>
+        <vers nb_vers="4">Triste, et le jour pour moi sera comme la nuit.</vers>
+     </strophe>
+    <strophe numero="3">
+        <vers nb_vers="1">Je ne regarderai ni l'or du soir qui tombe,</vers>
+        <vers nb_vers="2">Ni les voiles au loin descendant vers Harfleur,</vers>
+        <vers nb_vers="3">Et quand j'arriverai, je mettrai sur ta tombe</vers>
+        <vers nb_vers="4">Un bouquet de houx vert et de bruyère en fleur.</vers>
+     </strophe>
+</demain_des_l_aube>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<Bella_ciao>
+    <titre>Bella Ciao</titre>
+    <genre>Chant révolutionnaire</genre>
+    <auteur> 	anonyme </auteur>
+    <date_creation>Les paroles de la version qui renvoie aux événements les plus anciens ont été fixées en 1944 par Vasco Scansani, un désherbeur de rizières originaire de Gualtieri1. </date_creation>
+    <paroles>
+        <strophe numero="1">
+            <vers nb_vers="1">Una mattina mi sono svegliato,</vers>
+            <vers nb_vers="2">O bella ciao, bella ciao,</vers>
+            <vers nb_vers="3">Bella ciao, ciao, ciao,</vers>
+            <vers nb_vers="4">Una mattina mi sono svegliato,</vers>
+            <vers nb_vers="5">E ho trovato l'invasor.</vers>
+        </strophe>
+        <strophe numero="2">
+            <vers nb_vers="1">O partigiano portami via,</vers>
+            <vers nb_vers="2">O bella ciao, bella ciao,</vers>
+            <vers nb_vers="3">Bella ciao, ciao, ciao,</vers>
+            <vers nb_vers="4">O partigiano portami via,</vers>
+            <vers nb_vers="5">Che mi sento di morir.</vers>
+        </strophe>
+        <strophe numero="3">
+            <vers nb_vers="1">E so io muoio da partigiano,</vers>
+            <vers nb_vers="2">O bella ciao, bella ciao,</vers>
+            <vers nb_vers="3">Bella ciao, ciao, ciao,</vers>
+            <vers nb_vers="4">E so io muoio da partigiano,</vers>
+            <vers nb_vers="5">Tu mi devi seppellir.</vers>
+          </strophe>
+        <strophe numero="4">
+            <vers nb_vers="1">Mi seppellisci lassù in montagna</vers>
+            <vers nb_vers="2">O bella ciao, bella ciao,</vers>
+            <vers nb_vers="3">Bella ciao, ciao, ciao,</vers>
+            <vers nb_vers="4">Mi seppelisci lassù in montagna</vers>
+            <vers nb_vers="5">Sotto l'ombra di un bel fior.</vers>
+         </strophe>
+        <strophe numero="5">
+            <vers nb_vers="1">Tutte le genti che passeranno</vers>
+            <vers nb_vers="2">O bella ciao, bella ciao,</vers>
+            <vers nb_vers="3">Bella ciao, ciao, ciao,</vers>
+            <vers nb_vers="4">Tutte le genti che passeranno</vers>
+            <vers nb_vers="5">Mi diranno «che bel fior!».</vers>
+       </strophe>
+        <strophe numero="6">
+            <vers nb_vers="1">E questo è il fiore del partigiano</vers>
+            <vers nb_vers="2">O bella ciao, bella ciao,</vers>
+            <vers nb_vers="3">Bella ciao, ciao, ciao,</vers>
+            <vers nb_vers="4">E questo è il fiore del partigiano</vers>
+            <vers nb_vers="5">Morto per la Liberta.</vers>
+        </strophe>
+    </paroles>
+</Bella_ciao>

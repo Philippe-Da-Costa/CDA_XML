@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<Voyage>
+    <Pointe_noire>
+        <sejour nb_sejour="1">
+            <titre>GITE  COLIBRI VUE MER - ACCES DIRECT PLAGE</titre>
+            <position_GPS>16.213071945902854, -61.782119447743305</position_GPS>
+            <type>Maison</type>
+            <tarif_nuit>73€</tarif_nuit>
+            <nb_etoiles>4</nb_etoiles>
+            <composition>
+                <nb_chambre>2</nb_chambre>
+                <nb_salle_de_bain>2</nb_salle_de_bain>
+                <Espace>cuisine/Terrasse</Espace>
+            </composition>
+            <description>
+                Dans une propriété arborée, fleurs et arbres fruitiers, composée de 4 gîtes entièrement rénovés, accès direct à la plage sans route à traverser. Le gite COLIBRI  pour  quatre personnes,  possède deux chambres avec chacune sa salle de bain, douche à l'italienne et vasque,  et wc privatifs, chaque chambre est climatisée, une chambre avec lit double, dressing et une chambre avec deux lits simples ou modifiables en 180 et dressing. 
+                Cuisine extérieure, moderne avec tout le confort sur terrasse de 12 m2 - Vue mer des Caraibes.
+                Parking dans la propriété, WIFI.
+                Location kayaks et/ou paddles directement à la propriété.
+                Sur la plage, clubs de plongée, restaurants.
+                Nous sommes tournés vers l'écologie, les sanitaires des gîtes sont alimentés par la récupération de l'eau de pluie, et l'eau chaude est fournie par des chauffe-eau solaires
+                Premier petit déjeuner offert pour une réservation de 7 jours
+            </description>
+            <photos>
+                <img src="./img/sejour_un/plage.jpg" alt="photos de la plage"/>
+                <img src="./img/sejour_un/chambre1.jpg" alt="photos de la chambre1"/>
+                <img src="./img/sejour_un/chambre2.jpg" alt="photos de la chambre2"/>
+                <img src="./img/sejour_un/sdb.jpg" alt="photos de la salle de bain"/>
+            </photos>
+        </sejour>
+        <sejour nb_sejour="2">
+            <titre>Gîte calme et agréable-tout équipé-mer(80m)-montagne(1km)-proximité de tout</titre>
+            <position_GPS>16.23368227184309, -61.790233732006904</position_GPS>
+            <type>Appartement</type>
+            <tarif_nuit>58€</tarif_nuit>
+            <nb_etoiles>5</nb_etoiles>
+            <superficie>60m²</superficie>
+            <composition>
+                <nb_chambre>2</nb_chambre>
+                <nb_salle_de_bain>1</nb_salle_de_bain>
+                <Espace>cuisine/Balcon/salle à manger</Espace>
+            </composition>
+            <description>
+                Gite, ensemble de 3 Appartements(Vert, Bleu et Rose) chacun de 2 chambres, séjour, cuisine, calme et bien aéré par les 'Alizés', vue panoramique sur mer et montagne, grand balcon plein sud pour un bronzage impeccable ou pour l'apéro en baissant les stores, proximité immédiate de restos, sites, commerces, distribanques, pharmacies, réserve marine'Cousteau', jardin botanique 'Coluche', parc zoologique de la Traversée avec la faune et la flore locales, maison du bois, maison du cacao, musée du coquillage, saut d'Acomat, maison de la forêt, la vanillerie, parc national de la Guadeloupe, baignade en bassin de rivières, plongée, aviron en mer, pêche au gros ou à la palangrotte, randonnées, sorties nocturnes pour déguster un bon 'bokit' ou danser au rythme du 'Steel Band', discothèque le week-end, accueil à l'aéroport, possibilité de location de voitures, conseils et informations sur les coutumes et la culture locales,et etc selon affinités.
+            </description>
+            <photos>
+                <img src="./img/sejour_deux/appt.jpg" alt="vue de l appartement"/>
+                <img src="./img/sejour_deux/plage.jpg" alt="photos de la plage"/>
+                <img src="./img/sejour_deux/chambre1.jpg" alt="photos de la chambre1"/>
+                <img src="./img/sejour_deux/chambre2.jpg" alt="photos de la chambre2"/>
+                <img src="./img/sejour_deux/cuisine.jpg" alt="photos de la cuisine"/>
+            </photos>
+        </sejour>
+    </Pointe_noire>
+</Voyage>

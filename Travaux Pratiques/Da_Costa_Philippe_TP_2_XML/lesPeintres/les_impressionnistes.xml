@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<les_impressionnistes>
+    <Renoir>
+        <identite>
+            <Nom>Renoir</Nom>
+            <Prenom>Pierre Auguste</Prenom>
+            <famille_artistique> Impressionniste</famille_artistique>
+            <date_de_naissance>25 février 1841</date_de_naissance>
+            <lieux_de_naissance>Limoges (Haute-Vienne)</lieux_de_naissance>
+            <date_de_deces>3 décembre 1919</date_de_deces>
+            <lieu_de_deces> domaine des Collettes à Cagnes-sur-Mer</lieu_de_deces>
+        </identite>
+            <biographie>
+                <chapitre nb_chapitre="1">
+                    <titre>peintre de la vie heureuse</titre>
+                    <img annee="1867" src="./images/Renoir/renoir.jpg" alt="Portrait d'Auguste Renoir par Bazille"/>
+                    <contenu>
+                        C'est en 1855 que le père de Renoir, un modeste tailleur de pierres de Limoges établi à Paris depuis 1845, met son fils Auguste âgé de 14 ans en apprentissage dans une fabrique de porcelaine, rue du Temple, où l'adolescent est initié à la peinture sur porcelaine.
+
+                        L'introduction d'une machine mettra fin à cette expérience et plusieurs autres suivront, dont la peinture de tentures d'Eglise pour des missionnaires d'outre-mer.
+                        
+                        Huit ans plus tard Renoir disposait d'assez d'argent pour entrer, en avril 1862, à l'École des Beaux-Arts. Parallèlement aux cours de l'Ecole, il fréquente aussi l'Atelier privé de Charles Gleyre où il se liera d'amitié avec ses condisciples Alfred Sisley, Frédéric Bazille et Claude Monet.
+                    </contenu>
+                </chapitre>
+
+                <chapitre nb_chapitre="2">
+                    <titre>LA PERIODE IMPRESSIONNISTE (1864-1883) </titre>
+                        <oeuvres>
+                            <img annee="1868" src="./images/Renoir/sisley_couple.jpg" alt="image representant le tableau 'Sisley Couple'"/>
+                            <img annee="1881" src="./images/Renoir/boating_party_luncheon.jpg" alt="image representant le tableau 'Le déjeuner des canotiers'"/>
+                            <img annee="1874" src="./images/Renoir/theater_box.jpg" alt="image representant le tableau 'la loge'"/>
+                        </oeuvres>    
+                        <contenu partie="1">
+                             En plus de belles oeuvres de vues citadines et de paysages, comme les vues de Paris qu'il peint     avec Monet au printemps 1867 ( "Le Pont des Arts"), son propos artistique s'exprime aussi dans de   nombreuses scènes de genre, des portraits en plein air, comme "Les Fiancés", qui séduisent le spectateur par leur luminosité et leur expressivité.À partir de 1864, il expose ou tente d'exposer  au Salon.
+
+                            Accepté en 1864, refusé malgré l'intervention de Corot en 1866, il n'eut pas davantage de chance    l'année suivante, avec une "Diane chasseresse" qui permet de discerner l'influence qu'exerçait Courbet sur la production de Renoir à cette époque.
+                            
+                            Il peut montrer sa "Lise à l'ombrelle" (1867) au Salon de 1868 – il s'agit, là encore, d'une œuvre  influencée par Courbet .
+                        </contenu>
+                        <contenu partie="2">
+                             En plus de belles oeuvres de vues citadines et de paysages, comme les vues de Paris qu'il peint     avec Monet au printemps 1867 ( "Le Pont des Arts"), son propos artistique s'exprime aussi dans de   nombreuses scènes de genre, des portraits en plein air, comme "Les Fiancés", qui séduisent le spectateur par leur luminosité et leur expressivité.À partir de 1864, il expose ou tente d'exposer  au Salon.
+
+                            Accepté en 1864, refusé malgré l'intervention de Corot en 1866, il n'eut pas davantage de chance    l'année suivante, avec une "Diane chasseresse" qui permet de discerner l'influence qu'exerçait Courbet sur la production de Renoir à cette époque.
+                            
+                            Il peut montrer sa "Lise à l'ombrelle" (1867) au Salon de 1868 – il s'agit, là encore, d'une œuvre  influencée par Courbet .
+                        </contenu>
+                </chapitre>
+            </biographie>
+    </Renoir>
+    <Manet>
+        <identite>
+            <Nom>Manet</Nom>
+            <Prenom>Edouard</Prenom>
+            <famille_artistique> Impressionniste</famille_artistique>
+            <date_de_naissance>23 janvier 1832</date_de_naissance>
+            <lieux_de_naissance>Paris</lieux_de_naissance>
+            <date_de_deces>30 avril 1883</date_de_deces>
+            <lieu_de_deces> Paris</lieu_de_deces>
+        </identite>
+            <biographie>
+                <chapitre nb_chapitre="1">
+                    <titre>Le Maître des impressionnistes </titre>
+                    <img annee="1879" src="./images/Manet/selfportrait_palette.jpg" alt="Autoportrait à la palette"/>
+                    <contenu>
+                        Edouard MANET naît dans une famille aisée et raffinée de magistrats du côté de son père et de diplomates du côté de sa mère. Après avoir échoué au concours de l'ecole Navale, il part en 1848 comme pilotin sur un navire-école vers Rio.
+
+                        De retour en France, son père consent à ce qu'il se consacre à la peinture vers laquelle il s'était très jeune senti attiré. Il lui impose de suivre une solide formation aux Beaux-Arts dans l'Atelier du peintre Thomas COUTURE, où il devait rester six années, et pour lequel il gardera toute sa vie une certaine estime, quoiqu'ayant souffert de sa méthode d'enseignement qui exigeait "idéal et impersonnalité".
+                        
+                        "Je peins ce que je vois, et non ce qu'il plaît aux autres de voir" avait coutume d'opposer à la doctrine académique Edouard MANET, qui entendait revendiquer sa propre subjectivité et l'importance de la vision du peintre par rapport aux règles admises.
+                    </contenu>
+                </chapitre>
+
+                <chapitre nb_chapitre="2">
+                    <titre>UN ACADEMISME NOUVELLE MANIERE</titre>
+                    <oeuvres>
+                    <img annee="1858" src="./images/Manet/absinthe_drinker.jpg" alt="image representant le tableau 'Le buveur d'absinthe'"/>
+                    <img annee="1862" src="./images/Manet/musics_at_tuileries.jpg" alt="image representant le tableau 'La musique aux Tuileries'"/>
+                    <img annee="1863" src="./images/Manet/luncheon_on_the_grass.jpg" alt="image representant le tableau 'Le déjeuner sur l'herbe'"/>
+                    </oeuvres>   
+                        <contenu partie="1">
+                            Les oeuvres de jeunesse de Manet se rapprochent des peintures hollandaise et surtout espagnole du XVIIième.
+                            Manet qui effectua de nombreux voyages en Europe pour y étudier les grands maîtres de la peinture devait être particulièrement influencé par les oeuvres du néerlandais Frans Hals et des espagnols Diego Velasquez et Francisco Jose de Goya.
+                            Sa première soumission au Salon en 1859, "Le buveur d'absinthe", à la résonance espagnole alors à la mode - l'impératrice Eugénie était d'origine espagnole -, fut refusée, malgré l'avis favorable de Delacroix, pour le motif essentiel que MANET utilisait une configuration picturale traditionnelle (le portrait de plein pied) pour représenter un être marginal et socialement discrédité.
+                            Thomas Couture devait condamner ce tableau en disant : "Peint-t-on quelque chose d'aussi laid? Mon pauvre ami, il n'y a ici qu'un buveur d'absinthe, c'est le peintre qui a produit cette insanité..."
+                        </contenu>
+                        <contenu partie="2">
+                            Manet avait trouvé un mode de création qui caractérisera l'essentiel de sa future production : combiner des configurations picturales traditionnelles et leurs valeurs expressives avec la réalité contemporaine. Ainsi, bien avant l'impressionnisme proprement dit, Manet pose les termes de la polémique artistique à venir : révolte individuelle contre les conventions académiques, moyens picturaux mis au service de sujets contemporains nouveaux...
+                            Au début des années 60, Manet, à la manière d'un flâneur, parcourt sans relâche Paris, qui changeait alors de jour en jour, pour en déceler les caractéristiques les plus subtiles, les transformations, dessinant dans son carnet "un rien, un                           profil, un chapeau, en un mot une impression fugitive".Manet fut accepté au Salon en 1861 avec un autre tableau plus complaisant de la mode espagnole de la même facture que "Lola de Valence" (1862).
+                        </contenu>
+                </chapitre>
+            </biographie>
+    </Manet>
+    <Vincent_VAN_GOGH>
+        <identite>
+            <Nom>VAN GOGH</Nom>
+            <Prenom>Vincent</Prenom>
+            <famille_artistique> Impressionniste</famille_artistique>
+            <date_de_naissance>30 mars 1853</date_de_naissance>
+            <lieux_de_naissance>Groot-Zundert, aux Pays-Bas</lieux_de_naissance>
+            <date_de_deces>29 juillet 1890</date_de_deces>
+            <lieu_de_deces> Auvers-sur-Oise</lieu_de_deces>
+        </identite>
+            <biographie>
+                <chapitre nb_chapitre="1">
+                    <titre>art et mysticisme </titre>
+                    <img annee="1887" src="./images/Van-Gogh/selfportrait.jpg" alt="Autoportrait"/>
+                    <contenu>
+                        Fils d'un pasteur néerlandais, neveu de son homonyme Vincent Van Gogh qui co-dirigeait la firme de négoce d'art international Goupil &amp; Cie à La Haye, Vincent, comme son frère Théo, commença par suivre la tradition familiale en juillet 1869 en entrant en apprentissage chez Goupil &amp; Cie.
+
+                        Il devait y rester plus de 5 ans, à La Haye, puis dans les filiales, à Bruxelles, Londres (juin 1873 à mai 1875), Paris (jusqu'à fin 1875), où il commenca à développer un dégoût pour le commerce de l'art. Il se mit alors à mener une vie de reclus et à lire intensément la Bible.
+                        
+                        Il quitte son emploi et retourne chez ses parents à Etten en 1876, avant de retourner en Angleterre comme professeur dans un internat, puis prédicateur.
+                        
+                        L'année suivante, il commence des études de théologie à Amsterdam, qu'il abandonne un an après, avant de partir pour le Borinage, en Belgique, comme prédicateur et évangéliste auprès des mineurs de charbon de cette région désolée.
+                        
+                        Son tempérament fougueux et ses opinions politiques et sociales avancées le font se heurter aux autorités de l'Eglise et Vincent abandonne sa vocation. 
+                    </contenu>
+                </chapitre>
+
+                <chapitre nb_chapitre="2">
+                    <titre>L'AUTODIDACTE</titre>
+                    <oeuvres>
+                    <img annee="1885" src="./images/Van-Gogh/potatoes_eaters.jpg" alt="image representant le tableau 'Les mangeurs de pommes de terre'"/>
+                    <img annee="1887" src="./images/Van-Gogh/restaurant_sirene.jpg" alt="image representant le tableau 'Le restaurant de la Sirene à Asnières'"/>
+                    <img annee="1887" src="./images/Van-Gogh/fritillaria.jpg" alt="image representant le tableau 'Fritillaires couronne impériale'"/>
+                    </oeuvres>   
+                        <contenu partie="1">
+                            C'est seulement en août 1880 à l'âge de 27 ans, que Vincent décida de devenir peintre.
+
+                            Vincent Van Gogh est un peintre largement autodidacte. Il commence par copier des dessins, particulièrement des scènes de la vie paysanne de Jean-François MILLET, auquel il voue une estime quasi religieuse.
+
+                            Ayant envisagé de rentrer à l'Ecole des Beaux-Arts de Bruxelles, il y passe l'hiver 1881, mais travaille de façon indépendante et quelquefois avec le peintre hollandais Anton Van Rappard jusqu'en avril.
+
+                            Vincent n'ayant pas de moyens d'existence, c'est son frère Théo, qui travaille à la filiale parisienne de Goupil, qui le prend en charge comme il devait le faire régulièrement tout au long de la vie de Vincent.
+
+                            De retour chez ses parents à Etten, il les quitte après une dispute avec son père, à Noël, pour aller étudier à La Haye auprès de son cousin par alliance, le célèbre peintre Anton MAUVE. Celui-ci lui donnera des cours de dessin, et dirigera ses premières peintures qui datent de l'été 1882.
+
+                            Mauve et ses amis se détournèrent de Vincent lorsqu'il voulut se mettre en ménage puis épouser une mère célibataire, Sien Hoornik, qu'il avait engagée comme modèle. Il ne put dès lors compter que sur l'aide matérielle et morale de son frère Théo, et, après un bref séjour à Drenthe en septembre 1883, la solitude le pousse à retourner en décembre 1883 chez ses parents, désormais installés à Nuenen (dans le Brabant, près d'Eindhoven), deux ans après les avoir quittés.
+                        </contenu>
+                    </chapitre>
+            </biographie>
+    </Vincent_VAN_GOGH>
+</les_impressionnistes>

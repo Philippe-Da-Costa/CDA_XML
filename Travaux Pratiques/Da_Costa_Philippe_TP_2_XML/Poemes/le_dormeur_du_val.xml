@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<le_dormeur_du_val>
+    <titre> Le dormeur du val</titre>
+    <auteur>Arthur Rimbaud</auteur>
+    <date_de_creation> octobre 1870</date_de_creation>
+
+    <strophe numero="1">
+        <vers nb_vers="1">C'est un trou de verdure où chante une rivière,</vers>
+        <vers nb_vers="2">Accrochant follement aux herbes des haillons</vers>
+        <vers nb_vers="3">D'argent ; où le soleil, de la montagne fière,</vers>
+        <vers nb_vers="4">Luit : c'est un petit val qui mousse de rayons.</vers>
+     </strophe>
+    <strophe numero="2">
+        <vers nb_vers="1">Un soldat jeune, bouche ouverte, tête nue,</vers>
+        <vers nb_vers="2">Et la nuque baignant dans le frais cresson bleu,</vers>
+        <vers nb_vers="3">Dort ; il est étendu dans l'herbe, sous la nue,</vers>
+        <vers nb_vers="4">Pâle dans son lit vert où la lumière pleut.</vers>
+    </strophe>
+    <strophe numero="3">
+        <vers nb_vers="1">Les pieds dans les glaïeuls, il dort. Souriant comme</vers>
+        <vers nb_vers="2">Sourirait un enfant malade, il fait un somme :</vers>
+        <vers nb_vers="3">Nature, berce-le chaudement : il a froid.</vers>
+    </strophe>
+    <strophe numero="4">
+        <vers nb_vers="1">Les parfums ne font pas frissonner sa narine ;</vers>
+        <vers nb_vers="2">Il dort dans le soleil, la main sur sa poitrine,</vers>
+        <vers nb_vers="3">Tranquille. Il a deux trous rouges au côté droi.</vers>
+        <vers></vers>
+      </strophe>
+</le_dormeur_du_val>
